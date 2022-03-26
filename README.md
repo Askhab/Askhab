@@ -1,5 +1,5 @@
 ### 👋  Hi, I’m @Askhab_Magomedov,
-- 👀  I’m interested in JS, Python and Rust for now,
+- 👀  I’m interested in JS, Python and C# for now,
 - 🌱  I’m currently learning JS.
 
 <!---
