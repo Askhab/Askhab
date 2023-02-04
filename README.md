@@ -1,6 +1,6 @@
 ### 👋  Hi, I’m @Askhab_Magomedov,
-- 👀  I’m interested in JS, Python and C# for now,
-- 🌱  I’m currently learning JS.
+- 👀  I’m interested in Python, JS, Go and Rust for now,
+- 🌱  I’m currently learning Python.
 
 <!---
 Askhab/Askhab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
