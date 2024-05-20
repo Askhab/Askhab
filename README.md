@@ -1,5 +1,5 @@
 ### 👋  Hi, I’m @Askhab_Magomedov,
-- 👀  I’m interested in Python, JS, Go and Rust for now,
+- 👀  I’m interested in Python, Go and Rust for now,
 - 🌱  I’m currently learning Python.
 
 <!---
